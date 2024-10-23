@@ -1,4 +1,6 @@
+import { playList } from "./playlist.js"
 
+import (playList)
 
 const audio = document.getElementById('audio')
 const play = document.getElementById('play')
